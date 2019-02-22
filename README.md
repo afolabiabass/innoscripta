@@ -1,4 +1,4 @@
-# innoscripta
+# Innoscripta
 Innoscripta
 
 ## Setup
@@ -15,3 +15,6 @@ php artisan key:generate
 # Run migration with data for DB
 php artisan migrate --seed
 ```
+## Login
+- username: afolabi.abass@hotmail.co.uk
+- password: secret
